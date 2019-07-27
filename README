@@ -8,7 +8,7 @@ The code is mainly on the file "Code". You should read the code as follow
     - classM ( Main structure of the code )
     - Setup ( What happens the first time we run the code )
     - Info  ( What happens next, main code of the app )
-    - MCheck_3.3 ( How evrything is linked together )
+    - MCheck_3.3 ( How everything is linked together )
 
     - webbot and Encryption files are not from me: credit goes to their creators
             * Natesh M Bhat: https://buildmedia.readthedocs.org/media/pdf/webbot/latest/webbot.pdf
