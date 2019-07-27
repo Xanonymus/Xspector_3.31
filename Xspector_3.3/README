@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                 USERS
+------------------------------------------------------------------------------------------------------------------------
+
+Please, keep the program within its folder: I advise to create a shortcut to use it outside the folder. You are free
+to store the folder wherever you want.
+
+Veuillez laisser l'application dans son dossier: je vous recommande de créer un racourci si vous voulez l'utiliser en
+dehors. Vous êtes libre de stocker le dossier où vous voulez.
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+                                                 CODERS
+------------------------------------------------------------------------------------------------------------------------
+
+Thank you for your interest on the code of Xspector.
+The code is mainly on the file "Code". You should read the code as follow
+    - isMail ( simple functions to simplify the reading)
+    - classM ( Main structure of the code )
+    - Setup ( What happens the first time we run the code )
+    - Info  ( What happens next, main code of the app )
+    - MCheck_3.3 ( How evrything is link together )
+
+    - webbot and Encryption files are not from me: credit goes to their creators
+            * Natesh M Bhat: https://buildmedia.readthedocs.org/media/pdf/webbot/latest/webbot.pdf
+            * Engineer Man: https://www.youtube.com/watch?v=lKFfmSbkeiw&t=132s
